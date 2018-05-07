@@ -1,0 +1,16 @@
+body{background-color:grey;
+	width:1200px;
+}
+h1{color: red;
+}
+h2{color:green;}
+
+
+.content
+{background-color:white;
+padding:120px;
+margin:120px;}
+
+footer-align:centre;
+.img
+{background-color:black;}

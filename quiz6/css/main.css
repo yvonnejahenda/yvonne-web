@@ -1,0 +1,63 @@
+body{
+	background-color: #d1d1d1;
+	width:1000px;
+	margin: 10px auto;
+}
+header{
+	text-align: center;
+	background-color: 2f4351;
+}
+h1{
+	text-align: center;
+	color: white;
+	background-color: blue;
+}
+h2{
+	text-align: center;
+	color: yellow;
+	background-color: red;
+
+}
+h3{
+	text-align: center;
+	color: yellow;
+}
+
+.container{
+	padding:15px;
+
+	background color: #3b5367;
+}
+.tas{
+	width: 380px;
+	float: right;
+
+}
+h4{
+	background-color: yellow;
+	margin: 0 auto;
+	height: 50px;
+	padding-top: 10px
+
+}
+
+
+.div 2{
+	width: 100px;
+	height:300px;
+	margin: 0 auto;
+}
+.eve{
+	min-height: 200px;
+	width: 800px;
+	margin: 5px auto;background-color: white;
+}
+.hobbies{
+	background-color: green;
+	width: 400px;
+}
+.goals{
+	background-color: maroon;
+	width: 400px;
+	float: right;
+}
