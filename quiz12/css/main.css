@@ -1,0 +1,132 @@
+body{
+	background-color:#ccc;
+	text-align: center;
+	border: none;
+	
+	
+}
+h1{
+	color: white;
+	font-family: 'Mrs Saint Delafield', cursive;
+    font-size:55px; 
+}
+.tabs{
+	background-color:#fff;
+	width: 530px;
+	height: 800px;
+	margin: 0 auto;
+	padding: 50px;
+    color:white;
+	font-family: 'Allura', cursive;
+	font-size: 25px;
+}
+
+
+
+}
+.icons{
+	background-color: black;
+	padding: 50px;
+	height: 20px;
+	width: 433px;
+	margin: 0 auto;
+}
+
+
+}
+
+.fam{
+	width: 200px;
+	height: 100px;
+}
+.space{
+
+	background-color: black;
+	width:530px;
+	margin: 0 auto;
+	padding: 50px;
+	height: 5px;
+	padding-left: 57px;
+	margin-top: 245px;
+	margin-left: -53px;
+	color: white;
+
+}
+.top{
+	background-color: #cc1d1d;
+	height: 5px;
+	width: 530px;
+	margin: 0 auto;
+	padding: 50px;
+}
+.icon{
+	
+	height:700px;
+	width:300px;
+	color:white;
+}
+.circle{
+	background-color: transparent;
+}
+.login input[type="text"],input[type="password"]{
+	border: none;
+
+	 border-bottom: 1px solid #ffffff;
+	 background:transparent;
+	 outline: none;
+	 font-family: Arial;
+	 color: white;
+	 float:left;
+	 text-align: left;
+	 width: 550px;
+}
+
+.yvonne{
+	background-color: red
+	font-size:50px;
+}
+.Jahenda{
+	background-color: #cc1d1d;
+	margin: 0 auto;
+    width:560px;
+    height: 60px;
+    text-align: center;
+    font-size:25px;
+    float:center;
+    font-family:Arial;
+    line-height: 20px;
+    
+    /*text-align: left;*/
+    /*float:left;*/
+
+
+}
+.account{
+	font-family: Arial;
+	text-align: left;
+	/*margin-bottom: 20px;*/
+}
+.login{
+	font-family: Arial;
+	text-align: left;
+    
+	
+
+
+}
+.password{
+	color:#e43f3f;
+
+}
+/*.ancah{*/
+	color:;
+	opacity: 50%
+	height:700px;
+	font-size: 30px;
+	float:center; 
+
+
+}
+
+
+

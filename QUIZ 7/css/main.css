@@ -1,0 +1,116 @@
+body{
+	background-color: #d1d1d1;
+	width:1000px;
+	margin: 0 auto;
+}
+
+
+h1{
+	color: white;
+}
+h2{
+	color: yellow;
+	letter-spacing: 2px;
+
+}
+h3{
+	background-color: yellow;
+	padding: 35px;
+	margin: 0 auto;
+	height: 29px;
+}
+.header-text{
+	background-color: #2f4351;
+	padding: 30px;
+}
+.container{
+	background-color:#3b5367;
+	margin: 0 auto;
+	padding: 30px;
+}
+
+.eve{
+	background-color: yellow;
+	width: 1000px;
+	height: 100px;
+	color: black;
+	margin: 0 auto;
+	font-size: large;
+	text-align: left;
+}
+.key{
+	background-color: white;
+	width: 1000px;
+	margin: 0 auto;
+}
+.kothe{
+	/*background-color: blue;*/
+	width: 500px;
+	float: right;
+
+}
+
+.div2{
+	width: 1000px;
+	height: 300px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+/*h4{*/
+	/*background-color: yellow;*/
+
+.hobbies{
+	background-color: yellow;
+	padding: 0;
+	margin:0;
+}
+
+.hobbies{
+	background-color: white;
+	width: 490px;
+	height: 400px;
+	float: left;
+}
+.goals{
+
+	background-color: white;
+	width: 490px;
+	height: 400px;
+	float: right;
+}
+.goals h6{
+	background-color: yellow;
+	width: 490px;
+	padding: 0;
+	margin: 0;
+}
+.centertable table{
+	border-collapse: collapse;
+	border: 1px solid #666;
+	width: 100%;
+	background-c
+	color:#ccc;
+	height: 200px;
+}
+
+.centertable th{
+	background-color: #f7ce06;
+	padding: 10px;
+}
+
+.centertable tr{
+	background-color: white;
+	color: black;
+	border-bottom: 1px solid;
+	padding:10px;
+}
+.centertable tr td{
+	border-right: 1px solid;
+	text-align: center;
+
+}
+footer{
+	background-color:#2f4351;
+	text-align: center;
+	color:blue;
+}

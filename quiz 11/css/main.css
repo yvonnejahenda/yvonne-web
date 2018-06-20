@@ -1,0 +1,42 @@
+body{
+	
+	background-color: #ccc;
+	margin: 0 auto;
+}
+
+header{
+	/*background-color: #fff;*/
+	margin:0 auto;
+	height: 40px;
+	width: 140px;
+}
+}
+.fa-facebook{
+	width: 50px;
+	float: right;
+	color: blue;
+}
+.fa-gmail{
+	width: 30px;		
+	background-color:#ccc;
+}
+.fa-angle-left{
+	width:50px;
+	position: absolute;
+	background-color:#fff;
+	bottom:300px;
+	float: right;
+}
+.material-icons{
+	float:right;
+	background-color:pink;
+}
+.tabs{
+	background-color:blue;
+	height: 570px;
+	width:550px;
+	/*float:left;*/
+	margin: 0 auto;
+	margin-top: 3px;
+}
+
